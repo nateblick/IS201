@@ -1,0 +1,50 @@
+/* mystyles.css */
+
+/* Style 1 */
+.style1 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Style 2 */
+.style2 {
+    font-family: 'Times New Roman', serif;
+    color: #0066cc;
+}
+
+/* Style 3 */
+.style3 {
+    font-family: 'Verdana', sans-serif;
+    color: #990000;
+}
+
+/* Style 4 */
+.style4 {
+    font-family: 'Courier New', monospace;
+    color: #006600;
+}
+
+/* Div 1 */
+#div1 {
+    background-image: url('https://media.istockphoto.com/id/480560906/photo/green-grass.webp?b=1&s=170667a&w=0&k=20&c=_jQasZSLQzTRc9R9mtjkPVqT8hc2K6t8uOAM-do3U_0=');
+    background-repeat: no-repeat;
+    background-size: cover; /* or 'contain' depending on your preference */
+    background-position: center center;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+/* Div 2 */
+#div2 {
+    background-color: #13c207;
+    padding: 15px;
+    margin: 10px;
+}
+
+/* Div 3 */
+#div3 {
+    background-color: #1636d6;
+    padding: 10px;
+    margin: 10px;
+}
